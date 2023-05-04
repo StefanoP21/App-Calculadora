@@ -1,0 +1,18 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ISIL/Ciclo-III/APLICACIONES MOVILES PARA ANDROID/Semana 5/Tarea2/app/src/main/res/layout/activity_main.xml" value="0.2871376811594203" />
+        <entry key="..\:/ISIL/Ciclo-III/APLICACIONES MOVILES PARA ANDROID/Semana 5/Tarea2/app/src/main/res/layout/fragment_multiplicacion.xml" value="0.2871376811594203" />
+        <entry key="..\:/ISIL/Ciclo-III/APLICACIONES MOVILES PARA ANDROID/Semana 5/Tarea2/app/src/main/res/layout/fragment_resta.xml" value="0.2871376811594203" />
+        <entry key="..\:/ISIL/Ciclo-III/APLICACIONES MOVILES PARA ANDROID/Semana 5/Tarea2/app/src/main/res/layout/fragment_suma.xml" value="0.2871376811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
